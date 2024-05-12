@@ -1,5 +1,4 @@
 /Users/mansi.rajora/Documents/practice/intuit-music-project/intuit-post-service/src/main/java/com/springboot/post/exception/ResourceNotFoundException.java
-/Users/mansi.rajora/Documents/practice/intuit-music-project/intuit-post-service/src/main/java/com/springboot/post/exception/PostAPIException.java
 /Users/mansi.rajora/Documents/practice/intuit-music-project/intuit-post-service/src/main/java/com/springboot/post/repository/CommentRepository.java
 /Users/mansi.rajora/Documents/practice/intuit-music-project/intuit-post-service/src/main/java/com/springboot/post/service/impl/PostServiceImpl.java
 /Users/mansi.rajora/Documents/practice/intuit-music-project/intuit-post-service/src/main/java/com/springboot/post/service/impl/PostActionServiceImpl.java
@@ -19,6 +18,7 @@
 /Users/mansi.rajora/Documents/practice/intuit-music-project/intuit-post-service/src/main/java/com/springboot/post/repository/UserLikeRepository.java
 /Users/mansi.rajora/Documents/practice/intuit-music-project/intuit-post-service/src/main/java/com/springboot/post/entity/UserLike.java
 /Users/mansi.rajora/Documents/practice/intuit-music-project/intuit-post-service/src/main/java/com/springboot/post/service/CommentService.java
+/Users/mansi.rajora/Documents/practice/intuit-music-project/intuit-post-service/src/main/java/com/springboot/post/exception/PostAPIException.java
 /Users/mansi.rajora/Documents/practice/intuit-music-project/intuit-post-service/src/main/java/com/springboot/post/payload/ErrorDetails.java
 /Users/mansi.rajora/Documents/practice/intuit-music-project/intuit-post-service/src/main/java/com/springboot/post/entity/Category.java
 /Users/mansi.rajora/Documents/practice/intuit-music-project/intuit-post-service/src/main/java/com/springboot/post/utils/ActionEnum.java
