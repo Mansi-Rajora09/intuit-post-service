@@ -18,7 +18,7 @@ import jakarta.validation.Valid;
 import java.util.List;
 
 @RestController
-@RequestMapping("/api/posts")
+@RequestMapping("/intuit/api/posts")
 @Tag(
         name = "CRUD REST APIs for Post Resource"
 )

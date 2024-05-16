@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.*;
 
 
 @RestController
-@RequestMapping("/api/v1/post/action")
+@RequestMapping("/intuit/api/v1/post/action")
 public class PostActionController {
 
     private PostActionService postActionService;
